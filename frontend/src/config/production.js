@@ -5,8 +5,8 @@ const firebaseConfig = {
   projectId: "hangover-2020",
   storageBucket: "hangover-2020.appspot.com",
   messagingSenderId: "565712083476",
-  appId: "1:565712083476:web:fb4424da2c15ffdf6ae501",
-  measurementId: "G-D74JRKBFSX"
+  appId: "1:565712083476:web:5e2de563902fade56ae501",
+  measurementId: "G-S2GJDBHE2D"
 };
 
 // Cloud Functions
