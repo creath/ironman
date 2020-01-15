@@ -22,7 +22,9 @@ class ProductListPage extends Component {
           <PageTitle>
             {i18n('entities.product.list.title')}
           </PageTitle>
-
+          <PageTitle>
+            {i18n('entities.product.list.title')}
+          </PageTitle>
 
           <ProductListToolbar />
           <ProductListFilter />
