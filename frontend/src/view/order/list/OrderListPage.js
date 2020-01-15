@@ -22,7 +22,10 @@ class OrderListPage extends Component {
           <PageTitle>
             {i18n('entities.order.list.title')}
           </PageTitle>
-
+          <PageTitle>
+            {i18n('entities.order.list.title')}
+          </PageTitle>
+          
           <OrderListToolbar />
           <OrderListFilter />
           <OrderListTable />
