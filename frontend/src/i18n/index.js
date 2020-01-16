@@ -6,6 +6,7 @@ import antd_pt_BR from 'antd/lib/locale-provider/pt_BR';
 import { setLocale as setYupLocale } from 'yup';
 import ptBR from 'i18n/pt-BR';
 import en from 'i18n/en';
+import ko from 'i18n/ko';
 
 let currentLanguageCode = null;
 
@@ -15,6 +16,13 @@ const languages = {
     label: 'English',
     flag: '/images/flags/24/United-States.png',
     dictionary: en,
+    antd: undefined,
+  },
+  ko: {
+    id: 'ko',
+    label: 'Korean',
+    flag: '/images/flags/24/United-States.png',
+    dictionary: ko,
     antd: undefined,
   },
   'pt-BR': {
