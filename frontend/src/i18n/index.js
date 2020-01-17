@@ -21,7 +21,7 @@ const languages = {
   ko: {
     id: 'ko',
     label: 'Korean',
-    flag: '/images/flags/24/United-States.png',
+    flag: '/images/flags/24/Korea.png',
     dictionary: ko,
     antd: undefined,
   },
